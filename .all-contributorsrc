@@ -5,6 +5,7 @@
   "imageSize": 100,
   "commit": false,
   "commitTemplate": ":pencil: <%= (newContributor ? \"Add\" : \"Update\") %> @<%= username %> as a contributor",
+  "commitConvention": "gitmoji",
   "contributorsPerLine": 7,
   "projectName": "uppload",
   "projectOwner": "elninotech",
@@ -265,7 +266,8 @@
       "avatar_url": "https://avatars0.githubusercontent.com/u/1699095?v=4",
       "profile": "https://github.com/RichardJohnn",
       "contributions": [
-        "bug"
+        "bug",
+        "code"
       ]
     },
     {
